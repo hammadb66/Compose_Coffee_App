@@ -73,14 +73,3 @@ A modern, beautifully designed Android coffee ordering application built entirel
 \---
 
 
-
-\## 🚀 How to Run
-
-
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/hammadb66/Compose\_Coffee\_App.git](https://github.com/hammadb66/Compose\_Coffee\_App.git)
-
